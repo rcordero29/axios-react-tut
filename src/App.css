@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+h3 {
+  color: yellow;
+  margin : 50px;
+}
+p{
+  margin : 100px
+}
+h4{
+  font-style: italic;
+}
